@@ -1,5 +1,4 @@
 # Hurlab
-Customized scripts used in Hurlab for data analyses
-This repository includes publication-associated scripts that are used for the following processes:
-  1. peak file generation from multiple sources (e.g. MEME motif analysis)
-  2. 
+Welcome to the Hurlab page by Dylan (Xi Wang)! Here you will find the customized scripts for Hur lab data analysis, manuscripts, and many others. 
+Most of these scripts will be operating in standard Jupyter Notebook, and most of them are standalone instances with readme files, sample input & expected output, and demo runs.
+Have fun!
