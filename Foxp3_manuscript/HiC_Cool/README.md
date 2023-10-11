@@ -9,9 +9,9 @@ To process the .hic or .cool datasets, two packages were needed in Jupyter Noteb
 2. cooler; similarly, this can be readily installed by ""pip install cooler"
 
 In the Jupyter Notebook example, the GSE samples used were:
-1. GSM5702000, Foxp3 Treg HiChip repeat1, cool format
-2. GSM5702001, Foxp3 Treg HiChip repeat2, cool format
-3. GSM6705677, Foxp3 PLACseq, HiC format
+1. GSM5702000, Foxp3 Treg HiChip repeat1, cool format. Please save the file name as "HiChip_FoxP3_Treg_R1.hic".
+2. GSM5702001, Foxp3 Treg HiChip repeat2, cool format. Please save the file name as "HiChip_FoxP3_Treg_R2.hic".
+3. GSM6705677, Foxp3 PLACseq, HiC format. Please save the file name as "PLACseq.cool".
 
 As the raw HiC and cool files are too big to upload for GitHub, please download them directly from GSE database and put them in the same folder as the Jupyter Notebook.
 
