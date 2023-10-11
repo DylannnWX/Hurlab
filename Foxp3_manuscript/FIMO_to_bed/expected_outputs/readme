@@ -1,1 +1,9 @@
 Here are the expected outputs by running the Jupyter Notebook with the three sample input files included (make sure you've put them in the same local folder).
+
+For instance, if you'd like to merge the overlappign Fimo regions, you can then use bedtools merge function (https://bedtools.readthedocs.io/en/latest/content/tools/merge.html):
+
+1. Sort the file by Chr and start location as required by bedtools merge:
+sort -k1,1 -k2,2n Human_Fimo_allTnG.bed > Human_Fimo_allTnG_sorted.bed
+
+2. Merge them into a new bed file, which can be opened in excel for downstream analysis:
+bedtools merge -i Human_Fimo_allTnG_sorted.bed > Human_Fimo_merged_sorted.bed
