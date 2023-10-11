@@ -15,4 +15,4 @@ In the Jupyter Notebook example, the GSE samples used were:
 
 As the raw HiC and cool files are too big to upload for GitHub, please download them directly from GSE database and put them in the same folder as the Jupyter Notebook.
 
-The two bed files are the bins containing TnG-CnR peaks and NTnG-CnR peaks; they were used as additional inputs for dataframe operations
+The bed files are the bins containing TnG-CnR peaks and NTnG-CnR peaks, in either mm9 or mm10 genome; they were used as additional inputs for dataframe operations.
