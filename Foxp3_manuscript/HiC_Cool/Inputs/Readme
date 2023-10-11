@@ -1,1 +1,9 @@
+Here in this folder you'll find the TnG/NTnG bins used in the Jupyter Notebook. 
 
+For the HiC/Cool datasets, please download from the GSE database directly:
+
+1. GSM5702000, Foxp3 Treg HiChip repeat1, cool format. Please save the file name as "HiChip_FoxP3_Treg_R1.hic".
+2. GSM5702001, Foxp3 Treg HiChip repeat2, cool format. Please save the file name as "HiChip_FoxP3_Treg_R2.hic".
+3. GSM6705677, Foxp3 PLACseq, HiC format. Please save the file name as "PLACseq.cool".
+
+The processing and conversion of these datasets, as well as the expected output, were documented in the Jupyter Notebook. Feel free to switch to your own hic or cool files, as well as your own bins of interest!
