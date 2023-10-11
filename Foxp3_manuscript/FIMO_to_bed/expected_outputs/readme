@@ -1,5 +1,7 @@
 Here are the expected outputs by running the Jupyter Notebook with the three sample input files included (make sure you've put them in the same local folder).
 
+These bed files are compatible with all other softwares that take bed files as inputs. 
+
 For instance, if you'd like to merge the overlappign Fimo regions, you can then use bedtools merge function (https://bedtools.readthedocs.io/en/latest/content/tools/merge.html):
 
 1. Sort the file by Chr and start location as required by bedtools merge:
