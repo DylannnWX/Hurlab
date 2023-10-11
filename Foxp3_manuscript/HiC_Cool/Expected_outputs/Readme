@@ -1,1 +1,5 @@
+Here you'll find the expected outputs from the Jupyter Notebook. These are the TnG to TnG, TnG to NTnG, and NTnG to NTnG bin contacts filtered from the hic or cool file.
 
+Each group will have a 2TnG (TnG to TnG), TnGNTnG (TnG to NTnG), and 2NTnG (NTnG to NTnG) csv file.
+
+You can then readily open them in excel for downstream analysis.
